@@ -72,7 +72,12 @@ The generated booking ID is used to view the individual tcikets being booked.
 
 ![14](https://user-images.githubusercontent.com/58515646/115338395-60842d80-a1c0-11eb-80bd-41f690a2fd7f.JPG)
 
+### Cancel Ticket
+On specifying the booking ID, the ticket is cancelled. The cancellation fee is charged.
 
+![12](https://user-images.githubusercontent.com/58515646/115338676-f4ee9000-a1c0-11eb-8723-994d39567c03.JPG)
+
+![13](https://user-images.githubusercontent.com/58515646/115338866-544ca000-a1c1-11eb-8c96-3cc8056b90b4.JPG)
 
 
 
