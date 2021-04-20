@@ -1,6 +1,6 @@
 ## AIRLINE-RESERVATION-SYSTEM
 
-A airline operates multiple flights from Chennai to Mangalore. The aim is to write a basic
+An airline operates multiple flights from Chennai to Mangalore. The aim is to write a basic
 ticket booking program for their flights.
 
 ## Modules involved 
@@ -46,7 +46,13 @@ cancel tickets.
 ![3](https://user-images.githubusercontent.com/58515646/115337188-26199100-a1be-11eb-8d53-5e7dace50994.JPG)
 
 ### Check availability
+Once the flight ID or the file name is entered, the number of seats and details regarding availability of flight is displayed
 
+![5](https://user-images.githubusercontent.com/58515646/115337519-c079d480-a1be-11eb-90ca-69c36f9d50a8.JPG)
+
+![6](https://user-images.githubusercontent.com/58515646/115337543-ce2f5a00-a1be-11eb-8cb8-025f5fc4fa59.JPG)
+
+![7](https://user-images.githubusercontent.com/58515646/115337570-d8e9ef00-a1be-11eb-8804-0b01d8416c56.JPG)
 
 
 
