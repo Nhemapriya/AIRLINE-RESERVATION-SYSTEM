@@ -29,5 +29,8 @@ Flight seats are categorized under two types namely Economy and Business Class.T
 the number of seats in business class and economy class are given as file input. The name of the file corresponds to the 
 name of the flight
 
+![4](https://user-images.githubusercontent.com/58515646/115336866-9ecc1d80-a1bd-11eb-8902-802d7136c8dc.JPG)'
 
-![4](https://user-images.githubusercontent.com/58515646/115336548-10579c00-a1bd-11eb-8b79-9f00fe149de7.JPG)
+![atach4](https://user-images.githubusercontent.com/58515646/115336941-bd321900-a1bd-11eb-820c-1859dbda0926.JPG)
+
+
