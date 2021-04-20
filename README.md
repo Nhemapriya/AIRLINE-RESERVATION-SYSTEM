@@ -16,3 +16,10 @@ ticket booking program for their flights.
 ### Welcome page
 The basic landing page which allows one to login or add in flight details in th form of file 
 input. Initially, run the file "Welcome.java"
+
+![1](https://user-images.githubusercontent.com/58515646/115336273-83144780-a1bc-11eb-880f-93a894985b2b.JPG)
+
+### Login
+The User can use his username and password to login to the airline ticket reservation system.
+
+![2](https://user-images.githubusercontent.com/58515646/115336363-b7880380-a1bc-11eb-9c98-49a295448443.JPG)
