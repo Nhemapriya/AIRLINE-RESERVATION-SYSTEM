@@ -63,7 +63,14 @@ seats are assigned. Surge pricing and meal preference is provided.
 
 ![9](https://user-images.githubusercontent.com/58515646/115338220-fd929680-a1bf-11eb-9141-c44b6276e6c2.JPG)
 
+### View Ticket
+The generated booking ID is used to view the individual tcikets being booked.
 
+![10](https://user-images.githubusercontent.com/58515646/115338316-392d6080-a1c0-11eb-8cd9-0c560b7451f0.JPG)
+
+![11](https://user-images.githubusercontent.com/58515646/115338352-4b0f0380-a1c0-11eb-839b-ffe5297057e4.JPG)
+
+![14](https://user-images.githubusercontent.com/58515646/115338395-60842d80-a1c0-11eb-80bd-41f690a2fd7f.JPG)
 
 
 
