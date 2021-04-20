@@ -46,7 +46,8 @@ cancel tickets.
 ![3](https://user-images.githubusercontent.com/58515646/115337188-26199100-a1be-11eb-8d53-5e7dace50994.JPG)
 
 ### Check availability
-Once the flight ID or the file name is entered, the number of seats and details regarding availability of flight is displayed
+Once the flight ID or the file name is entered, the number of seats and details regarding availability of flight is displayed.
+Available seats for each flight ID is printed.
 
 ![5](https://user-images.githubusercontent.com/58515646/115337519-c079d480-a1be-11eb-90ca-69c36f9d50a8.JPG)
 
@@ -79,7 +80,15 @@ On specifying the booking ID, the ticket is cancelled. The cancellation fee is c
 
 ![13](https://user-images.githubusercontent.com/58515646/115338866-544ca000-a1c1-11eb-8c96-3cc8056b90b4.JPG)
 
+### Table Schema
 
+![Schema](https://user-images.githubusercontent.com/58515646/115339089-ba392780-a1c1-11eb-878e-22588da2e234.JPG)
+
+### Sample DB from file and user inputs
+
+![f1](https://user-images.githubusercontent.com/58515646/115339588-b5c13e80-a1c2-11eb-9b13-426f96c30ce3.JPG)
+
+![f2](https://user-images.githubusercontent.com/58515646/115339612-c07bd380-a1c2-11eb-95c1-9103f5b822ab.JPG)
 
 
 
