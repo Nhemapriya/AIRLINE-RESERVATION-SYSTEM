@@ -54,6 +54,9 @@ Once the flight ID or the file name is entered, the number of seats and details 
 
 ![7](https://user-images.githubusercontent.com/58515646/115337570-d8e9ef00-a1be-11eb-8804-0b01d8416c56.JPG)
 
+### Book Tickets
+The users can book tickets after checking availability for a particular flight. A unique ID is generated upon successful
+booking of tickets which is later used to identify the booking. Base price for economy and business class tickets is 
 
 
 
